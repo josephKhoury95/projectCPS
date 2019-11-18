@@ -4,5 +4,5 @@ This approach work proposes to frame CPS security in two different levels, strat
 
 In this approach we use two tools:
 
-1. [OpenAI GYM](https://github.com/openai/gym)
-2. [MiniCPS](https://github.com/scy-phy/minicps)
+1. [OpenAI GYM](https://github.com/openai/gym "gym github repo")
+2. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
