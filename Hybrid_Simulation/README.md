@@ -11,10 +11,12 @@ To implement this approach we use two tools:
 
 ## First.. We present the design of the framework
 
-For better understanding of the designed framework, we illustrate the architecture in Fig.
+For better understanding of the designed framework, we illustrate the architecture in the figure below.
 
 <object data="https://josephkhoury95.github.io/Architecture.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://josephkhoury95.github.io/Architecture.pdf">
-<!--         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://josephkhoury95.github.io/Architecture.pdf">Download PDF</a>.</p> -->
+        <p>This browser does not support PDFs. Please download the PDF to view it: 
+            <a href="https://josephkhoury95.github.io/Architecture.pdf">Download PDF</a>.
+        </p>
     </embed>
 </object>
