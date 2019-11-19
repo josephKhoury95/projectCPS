@@ -1,0 +1,77 @@
+05-01 20:36:31.217 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 20:38:18.932 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 20:38:18.970 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 22:38:47.678 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 22:58:14.830 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 22:58:14.857 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-01 23:53:36.272 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:30:27.100 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:30:27.155 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:45:54.857 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:45:54.899 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:46:29.875 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 00:46:29.954 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 17:52:39.344 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 17:52:39.450 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 18:10:50.804 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 18:10:50.831 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:11:30.397 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:11:30.434 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:24:23.548 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:24:23.653 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:35:15.576 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-02 23:35:15.691 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-03 01:24:07.451 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-03 01:24:07.460 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-03 01:30:41.563 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 01:30:41.764 MainThread network  WARNING  join       enip_srv server TID [13945/47891220760320] hanging on None
+05-03 02:45:49.580 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 02:45:49.781 MainThread network  WARNING  join       enip_srv server TID [18503/47748495275776] hanging on None
+05-03 02:46:06.187 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 02:46:06.388 MainThread network  WARNING  join       enip_srv server TID [19297/47960491972352] hanging on None
+05-03 02:51:03.012 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 02:51:03.213 MainThread network  WARNING  join       enip_srv server TID [20663/47124491421440] hanging on None
+05-03 02:52:33.204 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 02:52:33.404 MainThread network  WARNING  join       enip_srv server TID [21038/47586998568704] hanging on None
+05-03 02:52:37.507 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-03 02:52:37.708 MainThread network  WARNING  join       enip_srv server TID [21149/47114597086976] hanging on None
+05-06 16:12:12.705   Thread-2 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:14.027   Thread-3 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:15.363   Thread-4 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:16.717   Thread-5 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:18.087   Thread-6 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:19.444   Thread-7 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:20.804   Thread-8 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:22.233   Thread-9 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:23.638  Thread-10 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:25.010  Thread-11 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:26.368  Thread-12 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:27.709  Thread-13 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:28.981  Thread-14 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:30.220  Thread-15 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:31.476  Thread-16 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:32.743  Thread-17 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:34.024  Thread-18 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:35.303  Thread-19 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:36.576  Thread-20 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:37.832  Thread-21 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:39.098  Thread-22 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:40.358  Thread-23 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:41.672  Thread-24 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:43.007  Thread-25 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:44.378  Thread-26 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:45.754  Thread-27 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:47.290  Thread-28 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:48.812  Thread-29 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:50.302  Thread-30 enip.dev WARNING  route      Logix Failed attempting to resolve path {'segment': [{'symbolic': u'SENSOR3:2'}], 'size': 6}: class,inst,addr: None, target: None
+05-06 16:12:51.599 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-06 16:12:51.679 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-06 16:21:44.616 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-06 16:21:44.819 MainThread network  WARNING  join       enip_srv server TID [ 6639/47060394313472] hanging on None
+05-06 16:29:11.055 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+05-06 16:29:11.255 MainThread network  WARNING  join       enip_srv server TID [ 6628/47047742879488] hanging on None
+05-07 22:03:48.884 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-07 22:03:48.892 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-07 22:05:09.956 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-07 22:06:45.565 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+05-07 22:06:45.571 MainThread root     WARNING  logrotate_ Rotating log files due to signal
