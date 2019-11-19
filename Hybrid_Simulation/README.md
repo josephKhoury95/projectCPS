@@ -10,7 +10,7 @@ For better understanding of the designed framework, we illustrate the architectu
 
 <object data="https://josephkhoury95.github.io/Architecture.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://josephkhoury95.github.io/Architecture.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: 
+        <p>~This browser does not support PDFs. Please download the PDF to view it:~
             <a href="https://josephkhoury95.github.io/Architecture.pdf">Download PDF</a>.
         </p>
     </embed>
