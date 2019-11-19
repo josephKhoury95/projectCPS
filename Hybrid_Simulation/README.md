@@ -18,12 +18,15 @@ For better understanding of the designed framework, we illustrate the architectu
 
 The designed framework is a combination between two tools:
 
-1. [OpenAI GYM](https://github.com/openai/gym "openai gym github repo")
-2. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
+1. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
+2. [OpenAI GYM](https://github.com/openai/gym "openai gym github repo")
+
+First, the CPS network is created using MiniCPS. It generates a Python file describing the designed network with all its hosts, switches, and links. Second, using OpenAI GYM, we create the environment for the proposed game model, and we define agents strategies. Finally, we apply the [Q-Learning](https://en.wikipedia.org/wiki/Q-learning "q-learning wikipedia") algorithm on the formulated game to derive optimal policies.
 
 ___
 ## Installation Setup
-Below are the required installation for both OpenAI GYM and MiniCPS:
+Below are the required installation for both MiniCPS and OpenAI GYM:
 
-* [Installation setup for OpenAI GYM](https://github.com/openai/gym#installation "openai gym installation setup")
 * [Installation setup for MiniCPS](https://minicps.readthedocs.io/en/latest/userguide.html#installation "minicps installation setup")
+* [Installation setup for OpenAI GYM](https://github.com/openai/gym#installation "openai gym installation setup")
+
