@@ -16,6 +16,8 @@ For better understanding of the designed framework, we illustrate the architectu
     </embed>
 </object>
 
+![alt text](https://josephkhoury95.github.io/123.png)
+
 The designed framework is a combination between two tools:
 
 1. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
