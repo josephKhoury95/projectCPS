@@ -16,7 +16,7 @@ For better understanding of the designed framework, we illustrate the architectu
     </embed>
 </object>
 
-![alt text](https://josephkhoury95.github.io/Architecture.pdf)
+[Architecture.pdf](https://josephkhoury95.github.io/Architecture.pdf)
 
 The designed framework is a combination between two tools:
 
