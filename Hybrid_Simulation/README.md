@@ -4,7 +4,7 @@ This approach proposes to frame Cyber Physical System (CPS) security in two diff
 
 -----------------------------
 
-## First.. We present the design of the framework
+## Framework Design
 
 For better understanding of the designed framework, we illustrate the architecture in the figure below.
 
