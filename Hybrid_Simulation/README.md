@@ -18,5 +18,11 @@ For better understanding of the designed framework, we illustrate the architectu
 
 The designed framework is a combination between two tools:
 
-1. [OpenAI GYM](https://github.com/openai/gym "gym github repo")
+1. [OpenAI GYM](https://github.com/openai/gym "openai gym github repo")
 2. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
+
+___
+Below are the required installation for both OpenAI GYM and MiniCPS:
+
+* [Installation setup for OpenAI GYM](https://github.com/openai/gym#installation "openai gym installation setup")
+* [Installation setup for MiniCPS](https://minicps.readthedocs.io/en/latest/userguide.html#installation "minicps installation setup")
