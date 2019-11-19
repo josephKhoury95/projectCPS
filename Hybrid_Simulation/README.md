@@ -16,8 +16,6 @@ For better understanding of the designed framework, we illustrate the architectu
     </embed>
 </object>
 
-[Architecture.pdf](https://josephkhoury95.github.io/Architecture.pdf)
-
 The designed framework is a combination between two tools:
 
 1. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
@@ -31,4 +29,9 @@ Below are the required installation for both MiniCPS and OpenAI GYM:
 
 * [Installation setup for MiniCPS](https://minicps.readthedocs.io/en/latest/userguide.html#installation "minicps installation setup")
 * [Installation setup for OpenAI GYM](https://github.com/openai/gym#installation "openai gym installation setup")
+
+We also present below a link for an article describing how to custom an OpenAI GYM environment:
+
+* [Making a custom environment in gym](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa "openai gym custom environment")
+
 
