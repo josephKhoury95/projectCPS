@@ -34,4 +34,12 @@ We also present below a useful link for customizing an OpenAI GYM environment:
 
 * [Making a custom environment in gym](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa "openai gym custom environment")
 
+--
+## Tool Introduction
+**P.N: Linux machine is required**
+* gym-cps (directory) contains the game model designed using OpenAI GYM library
+* project1 (directory) contains the CPS network designed using MiniCPS network simulator
+* projectCPS_RANDOM (jupyter) running simulation with random strategies for both agents
+* projectCPS_RL (jupyter) running simulator with learning component for both agents
+
 
