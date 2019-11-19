@@ -22,6 +22,7 @@ The designed framework is a combination between two tools:
 2. [MiniCPS](https://github.com/scy-phy/minicps "minicps github repo")
 
 ___
+## Installation Setup
 Below are the required installation for both OpenAI GYM and MiniCPS:
 
 * [Installation setup for OpenAI GYM](https://github.com/openai/gym#installation "openai gym installation setup")
