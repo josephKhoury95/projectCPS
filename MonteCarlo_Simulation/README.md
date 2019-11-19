@@ -10,5 +10,5 @@ The presented Python tool make use of the Monte Carlo method to evaluate the pay
 
 In this directory we provide two files for conducting the simulation:
 
-* graph1.txt: this input file describes the Industrial Control System (ICS) network; it is represented by a graph.
-* SIM1.py: This Python file conduct a Monte Carlo Simulation between both agents based on random strategies.
+* graph1.txt: Input file describing the Industrial Control System (ICS) network.
+* SIM1.py:    Conduct a Monte Carlo Simulation between both agents based on random strategies.
